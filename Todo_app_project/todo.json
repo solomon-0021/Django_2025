@@ -1,0 +1,14 @@
+[
+  {
+    "task": "prepare for examp",
+    "completed": false
+  },
+  {
+    "task": "submit the project",
+    "completed": true
+  },
+  {
+    "task": "learning django",
+    "completed": false
+  }
+][]
